@@ -1,0 +1,35 @@
+127.0.0.1  localhost
+::1  localhost
+
+127.0.0.1 lax1-ib.adnxs.com
+127.0.0.1 www.googleadservices.com
+
+# [General]
+127.0.0.1 sdk.adincube.com
+127.0.0.1 adc3-launch.adcolony.com
+127.0.0.1 l-v1.presage.io
+127.0.0.1 admin.appnext.com
+127.0.0.1 api.pubnative.net
+127.0.0.1 e.crashlytics.com
+127.0.0.1 ads.avocarrot.com
+127.0.0.1 appnext.hs.llnwd.net
+127.0.0.1 sdklogs.avocarrot.com
+127.0.0.1 click.union.ucweb.com
+127.0.0.1 sy-v1.presage.io
+127.0.0.1 events3.adcolony.com
+127.0.0.1 pl-v2.presage.io
+127.0.0.1 ah-v1.presage.io
+127.0.0.1 wsback-redirect.presage.io
+127.0.0.1 live.chartboost.com
+127.0.0.1 v2.chartboost.com
+127.0.0.1 adc3-launch.adcolony.com
+127.0.0.1 native.cli.bz
+127.0.0.1 ads.aerserv.com
+127.0.0.1 config.unityads.unity3d.com
+127.0.0.1 res1.applovin.com
+127.0.0.1 wd.adcolony.com
+127.0.0.1 ads30.adcolony.com
+127.0.0.1 events3alt.adcolony.com
+127.0.0.1 cdn.flurry.com
+127.0.0.1 adserver.unityads.unity3d.com
+127.0.0.1 cdn.flurry.com
